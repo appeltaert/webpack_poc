@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/shared/module1.js"],"names":["module","exports"],"mappings":";;;;;;;;AAAAA,OAAOC,OAAP,GAAiB,YAAjB,C","file":"common.js","sourcesContent":["module.exports = 'module1.js';\n\n\n\n// WEBPACK FOOTER //\n// ./src/shared/module1.js"],"sourceRoot":""}
